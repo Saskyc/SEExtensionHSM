@@ -8,7 +8,7 @@ Action | Mode
 ADVANCEDHINT | ADD
 
 
-| Action Name   | Mode[0]   | PLAYERS[1] | ID[2] | Align |
-|---------------|--------|---------|----|----|
-| ADVANCEDHINT  | SET    | PLAYERS | ID | 1/2/3 |
-| ADVANCEDHINT  | REMOVE | PLAYERS | ID | X |
+| Action Name   | Mode[0] | PLAYERS[1] | ID[2] | Align |
+|---------------|---------|------------|-------|-------|
+| ADVANCEDHINT  | SET     | PLAYERS    | ID    | 1/2/3 |
+| ADVANCEDHINT  | REMOVE  | PLAYERS    | ID    | X     |
