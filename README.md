@@ -6,3 +6,8 @@ This extension allows to have multiple hints on one screen by adding action call
 
 Action | Mode
 ADVANCEDHINT | ADD
+
+
+| Attempt | #1    | #2    |
+| :---:   | :---: | :---: |
+| Seconds | 301   | 283   |
