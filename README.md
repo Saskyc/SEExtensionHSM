@@ -8,6 +8,7 @@ Action | Mode
 ADVANCEDHINT | ADD
 
 
-| Action Name | Mode | PLAYERS | ID |
-| ADVANCEDHINT | SET | PLAYERS | ID |
-| ADVANCEDHINT | REMOVE | PLAYERS | ID |
+| Action Name   | Mode   | PLAYERS | ID |
+|---------------|--------|---------|----|
+| ADVANCEDHINT  | SET    | PLAYERS | ID |
+| ADVANCEDHINT  | REMOVE | PLAYERS | ID |
