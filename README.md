@@ -8,6 +8,6 @@ Action | Mode
 ADVANCEDHINT | ADD
 
 
-| Attempt | #1    | #2    |
-| :---:   | :---: | :---: |
-| Seconds | 301   | 283   |
+| Action Name | Mode    | PLAYERS | ID |
+| ADVANCEDHINT   | SET | PLAYERS | ID |
+| ADVANCEDHINT | REMOVE | PLAYERS | ID   |
